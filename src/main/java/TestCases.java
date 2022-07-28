@@ -11,4 +11,9 @@ public class TestCases {
     void test2(){
         System.out.println("Inside test2");
     }
+
+    @Test
+    void test3(){
+        System.out.println("Inside test3");
+    }
 }
